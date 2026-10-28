@@ -1,0 +1,2 @@
+# Noxen
+discord bot
